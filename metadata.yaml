@@ -1,0 +1,36 @@
+_repo: Sheikin-pojat-Romaani-aavikoilta_68132
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Hull, E. M. (Edith Maude)
+    alias: Hull, Edith Maude
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '2313'
+    url: http://www.gutenberg.org/2009/agents/2313
+    wikipedia: https://en.wikipedia.org/wiki/E._M._Hull
+description: ''
+gutenberg_issued: '2022-05-20'
+identifiers:
+  gutenberg: '68132'
+language: fi
+pgterms:marc905: 20220218013752hull
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sheikin pojat: Romaani aavikoilta'
+url: http://www.gutenberg.org/ebooks/68132
